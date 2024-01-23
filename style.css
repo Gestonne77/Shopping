@@ -1,0 +1,65 @@
+
+.container{
+    margin-top: 100px;
+}
+
+.Clean{
+    background-color: black;
+    height: 40px;
+    width: 200px;
+    padding-right: 20px;
+    margin-left: -17px;
+    margin-top: -10px;
+    border-radius: none;
+    border-radius: 0%;
+   
+}
+.card{
+    border: none;
+    
+}
+.card-text{
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+}
+.button {
+    width: 38px;
+    height:38px;
+    background-color: #cad1cd;
+    border: none;
+    color: white;
+    padding: 13px;
+    display: inline-block;
+    font-size: 8px;
+    margin-bottom: 10px;        
+    cursor: pointer;  
+    border-radius: 5px; 
+    color: black;
+    font-weight: bold;
+  }
+  
+  .button1 {border-radius: 100%;}
+
+
+  .small{
+    color: #cad1cd;
+    font-weight: bold;
+    font-size: 10px;
+
+  }
+  .star-button{
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    border: none;
+    background-color: #cad1cd;
+    
+  }
+  .Products{
+   
+    padding-left: 200px;
+    margin: -15px;
+    
+  }
